@@ -1,0 +1,15 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+  }
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: auto;
+}
+
+h3 {
+    font-weight: lighter;
+}
