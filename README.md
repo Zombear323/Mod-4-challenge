@@ -1,12 +1,14 @@
 # Mod-4-challenge
 <h1>Weekly Challenge #4 Web APIs</h1>
 
+<h2>User Story</h2>
 <ul>
     <li>AS A coding boot camp student</li>
     <li>I WANT to take a timed quiz on JavaScript fundamentals that stores high scores</li>
     <li>SO THAT I can gauge my progress compared to my peers</li>
 </ul>
 
+<h2>Acceptance Criteria</h2>
 <ul>
     <li>GIVEN I am taking a code quiz</li>
     <li>WHEN I click the start button</li>
