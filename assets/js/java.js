@@ -9,7 +9,6 @@ function starquiz(event){
 quizstart.addEventListener('click', starquiz, starttimer);
 
 
-
 /*
 
 quiz start screen

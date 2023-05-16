@@ -22,3 +22,8 @@
     <li>WHEN the game is over</li>
     <li>THEN I can save my initials and score</li>
 </ul>
+
+To be compleated upon resubmission
+
+image.png
+
